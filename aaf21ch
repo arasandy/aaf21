@@ -363,3 +363,19 @@ https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://dreamdth.com/wp-content/uploads/2023/02/Sony-Sports-Network.jpeg.webp" group-title="SPORTS", Sony Ten 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=4533&deviceMac=00:1A:79:82:4E:91
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://dreamdth.com/wp-content/uploads/2023/02/Sony-Sports-Network.jpeg.webp" group-title="Sports", Sony Ten 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=4533&deviceMac=00:1A:79:82:4E:91
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://dreamdth.com/wp-content/uploads/2023/02/Sony-Sports-Network.jpeg.webp" group-title="Sports", Sony Ten 3 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=4533&deviceMac=00:1A:79:82:4E:91
+  
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://dreamdth.com/wp-content/uploads/2023/02/Sony-Sports-Network.jpeg.webp" group-title="Sports", Sony Ten 4 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=4533&deviceMac=00:1A:79:82:4E:91
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://dreamdth.com/wp-content/uploads/2023/02/Sony-Sports-Network.jpeg.webp" group-title="Sports", Sony Ten 5 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=4533&deviceMac=00:1A:79:82:4E:91  
