@@ -183,3 +183,59 @@ http://gcp-dash.ngslbs.com/TVD004/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/vk1GHy9/cat-sport.png",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cf654a7503956aa3ff6cdc4955b3f00:130adbc998b91930b0ff716c51300953
+https://uselector.cdn.intigral-ott.net:443/STCS/STCS.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 1 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gP8cdjt/adsports2premium.png" group-title="SPORTS🏅", ABU DHABI SPORTS PREMIUM 2 🇦🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AD Sports 1 HD.ar" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="SPORTS🏅", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="AD Sports 1 HD.ar" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="SPORTS🏅", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+#EXTINF:-1 tvg-id="AD Sports 2 HD.ar" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="SPORTS🏅", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="AD Sports 2 HD.ar" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="SPORTS🏅", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+
+#EXTINF:-1 tvg-id="2023 Alkass 1.ar" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="SPORTS🏅", AL KASS 1 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 2.ar" tvg-logo="https://i.ibb.co.com/m9WKtjB/kass2.png" group-title="SPORTS🏅", AL KASS 2 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 3.ar" tvg-logo="https://i.ibb.co.com/tw6nR1k/kass3.png" group-title="SPORTS🏅", AL KASS 3 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 4.ar" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png" group-title="SPORTS🏅", AL KASS 4 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 5.ar" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png" group-title="SPORTS🏅", AL KASS 5 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+
+#EXTINF:-1 tvg-id="2023 Alkass 6.ar" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png" group-title="SPORTS🏅", AL KASS 6 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8
