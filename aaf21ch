@@ -236,6 +236,11 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
 #EXTINF:-1 tvg-id="2023 Alkass 5.ar" tvg-logo="https://i.ibb.co.com/k57XRqD/kass5.png" group-title="SPORTS🏅", AL KASS 5 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/z6xNS8T/laligatv.png" group-title="SPORTS🏅" , LaLiga TV 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
 #EXTINF:-1 tvg-id="2023 Alkass 6.ar" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png" group-title="SPORTS🏅", AL KASS 6 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8
